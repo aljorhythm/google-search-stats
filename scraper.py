@@ -215,7 +215,7 @@ elif("-searchurl" in sys.argv):
 	results = search_results_parser.get_stats_url(search_URL_or_filename)
 	log(results)
 elif("-images" in sys.argv):
-	print count_images.get_stats(search_URL_or_filename)
+	print count_images.get_stats(opener.open(search_URL_or_filename).read())
 elif("-youtube" in sys.argv):
 	print youtube_stats_parser.get_stats(search_URL_or_filename)
 #BYE

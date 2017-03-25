@@ -3,7 +3,7 @@
     {   'images': {   'total': 85, 'with alt': 84},
         'youtube': [   (   u'https://www.youtube.com/watch?v=esYIKo0Aoaw?wmode=transparent',
                            {   'likes': {   'downs': 3, 'ups': 51},
-                               'views': 205796})]})
+                               'views': 205798})]})
 (   '2 / 99',
     'https://www.cheapflights.com.sg/news/50-cheap-things-to-do-with-your-best-friend-in-singapore/',
     {   'images': {   'total': 12, 'with alt': 12}, 'youtube': []})
@@ -20,7 +20,7 @@
     'https://www.tripzilla.com/outing-ideas-singapore-under-sgd20/23400',
     {   'images': {   'total': 72, 'with alt': 37},
         'youtube': [   (   u'https://www.youtube.com/watch?v=hwk6WuqmXQA',
-                           {   'likes': {   'downs': 1, 'ups': 7}, 'views': 5878})]})
+                           {   'likes': {   'downs': 1, 'ups': 7}, 'views': 5881})]})
 (   '7 / 99',
     'http://woodlandstoyishun.sg/53-free-interesting-places-you-can-go-in-singapore/',
     {   'images': {   'total': 80, 'with alt': 80}, 'youtube': []})
@@ -54,7 +54,7 @@
                            {   'likes': {   'downs': 0, 'ups': 3}, 'views': 2180})]})
 (   '15 / 99',
     'https://www.tripadvisor.com.sg/ShowUserReviews-g294265-d2389880-r336540689-Toby_s_Estate-Singapore.html',
-    {   'images': {   'total': 113, 'with alt': 90}, 'youtube': []})
+    {   'images': {   'total': 117, 'with alt': 94}, 'youtube': []})
 (   '16 / 99',
     'http://www.herworldplus.com/lifestyle/travel/why-most-singapore-women-wont-travel-their-bffs',
     {   'images': {   'total': 55, 'with alt': 6}, 'youtube': []})
@@ -147,7 +147,7 @@
     {   'images': {   'total': 22, 'with alt': 16},
         'youtube': [   (   u'https://www.youtube.com/watch?v=jot03N27bnE?list=PLoa9nNa48ZVUa6eY4DnLFkYQGyN-nEMVr&showinfo=0',
                            {   'likes': {   'downs': 1, 'ups': 14},
-                               'views': 4438}),
+                               'views': 4501}),
                        (   u'https://www.youtube.com/watch?v=o3Urx_QxXlY?list=PLoa9nNa48ZVUDh36LeMokTLCmvn4M8BP9&showinfo=0',
                            {   'likes': {   'downs': 4, 'ups': 31},
                                'views': 7440})]})
@@ -235,7 +235,7 @@
     {   'images': {   'total': 0, 'with alt': 0}, 'youtube': []})
 (   '71 / 99',
     'http://sgcomplainqueen.blogspot.com/2013/09/my-bangkok-trip-part-1-visiting-unusual.html',
-    {   'images': {   'total': 821, 'with alt': 199},
+    {   'images': {   'total': 817, 'with alt': 195},
         'youtube': [   (   u'http://www.youtube.com/watch?v=oGSObOOxxkU',
                            {   'likes': {   'downs': 0, 'ups': 26},
                                'views': 19823}),
@@ -290,7 +290,7 @@
     {   'images': {   'total': 36, 'with alt': 35},
         'youtube': [   (   u'https://www.youtube.com/watch?v=X6pxQJZNPdo?rel=0',
                            {   'likes': {   'downs': 1, 'ups': 27},
-                               'views': 3669}),
+                               'views': 3671}),
                        (   u'http://www.youtube.com/watch?v=4qsGTXLnmKs',
                            {   'likes': {   'downs': 151, 'ups': 8930},
                                'views': 1827724})]})
@@ -355,7 +355,7 @@
                                                                                                       'youtube': [   (   u'https://www.youtube.com/watch?v=jot03N27bnE?list=PLoa9nNa48ZVUa6eY4DnLFkYQGyN-nEMVr&showinfo=0',
                                                                                                                          {   'likes': {   'downs': 1,
                                                                                                                                           'ups': 14},
-                                                                                                                             'views': 4438}),
+                                                                                                                             'views': 4501}),
                                                                                                                      (   u'https://www.youtube.com/watch?v=o3Urx_QxXlY?list=PLoa9nNa48ZVUDh36LeMokTLCmvn4M8BP9&showinfo=0',
                                                                                                                          {   'likes': {   'downs': 4,
                                                                                                                                           'ups': 31},
@@ -383,8 +383,8 @@
     'http://santagrand.sg/promotions/': {   'images': {   'total': 19,
                                                           'with alt': 19},
                                             'youtube': []},
-    'http://sgcomplainqueen.blogspot.com/2013/09/my-bangkok-trip-part-1-visiting-unusual.html': {   'images': {   'total': 821,
-                                                                                                                  'with alt': 199},
+    'http://sgcomplainqueen.blogspot.com/2013/09/my-bangkok-trip-part-1-visiting-unusual.html': {   'images': {   'total': 817,
+                                                                                                                  'with alt': 195},
                                                                                                     'youtube': [   (   u'http://www.youtube.com/watch?v=oGSObOOxxkU',
                                                                                                                        {   'likes': {   'downs': 0,
                                                                                                                                         'ups': 26},
@@ -416,7 +416,7 @@
                                                            'youtube': [   (   u'https://www.youtube.com/watch?v=esYIKo0Aoaw?wmode=transparent',
                                                                               {   'likes': {   'downs': 3,
                                                                                                'ups': 51},
-                                                                                  'views': 205796})]},
+                                                                                  'views': 205798})]},
     'http://woodlandstoyishun.sg/53-free-interesting-places-you-can-go-in-singapore/': {   'images': {   'total': 80,
                                                                                                          'with alt': 80},
                                                                                            'youtube': [   ]},
@@ -477,7 +477,7 @@
                                                                                                                           'youtube': [   (   u'https://www.youtube.com/watch?v=X6pxQJZNPdo?rel=0',
                                                                                                                                              {   'likes': {   'downs': 1,
                                                                                                                                                               'ups': 27},
-                                                                                                                                                 'views': 3669}),
+                                                                                                                                                 'views': 3671}),
                                                                                                                                          (   u'http://www.youtube.com/watch?v=4qsGTXLnmKs',
                                                                                                                                              {   'likes': {   'downs': 151,
                                                                                                                                                               'ups': 8930},
@@ -664,8 +664,8 @@
     'https://www.tripadvisor.co.uk/ShowUserReviews-g294265-d301581-r394923717-Fairmont_Singapore-Singapore.html': {   'images': {   'total': 143,
                                                                                                                                     'with alt': 114},
                                                                                                                       'youtube': [   ]},
-    'https://www.tripadvisor.com.sg/ShowUserReviews-g294265-d2389880-r336540689-Toby_s_Estate-Singapore.html': {   'images': {   'total': 113,
-                                                                                                                                 'with alt': 90},
+    'https://www.tripadvisor.com.sg/ShowUserReviews-g294265-d2389880-r336540689-Toby_s_Estate-Singapore.html': {   'images': {   'total': 117,
+                                                                                                                                 'with alt': 94},
                                                                                                                    'youtube': [   ]},
     'https://www.tripadvisor.com/ShowUserReviews-g294265-d2389880-r336540689-Toby_s_Estate-Singapore.html': {   'images': {   'total': 0,
                                                                                                                               'with alt': 0},
@@ -675,7 +675,7 @@
                                                                               'youtube': [   (   u'https://www.youtube.com/watch?v=hwk6WuqmXQA',
                                                                                                  {   'likes': {   'downs': 1,
                                                                                                                   'ups': 7},
-                                                                                                     'views': 5878})]},
+                                                                                                     'views': 5881})]},
     'https://www.youth.sg/Peek-Show/2016/3/The-four-types-of-politicians-we-saw-at-the-Singapore-Budget-2016': {   'images': {   'total': 16,
                                                                                                                                  'with alt': 13},
                                                                                                                    'youtube': [   ]}}
