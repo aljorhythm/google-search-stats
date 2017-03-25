@@ -14,16 +14,16 @@ Crawls into each google search result and obtain
 `sh run_all.sh`
 
 ### crawls into every search result of url
-python scraper.py -searchurl https://www.google.com.sg/search?q=*\<query string\>*
+`python scraper.py -searchurl https://www.google.com.sg/search?q=<query string>`
 
 ### crawls into every search result of saved search results
-python scraper.py -searchfile *\<filename\>*
+`python scraper.py -searchfile <filename>`
 
 ### stats from youtube
-python scraper.py -youtube http://www.youtube.com/watch?v=*\<video id\>*
+`python scraper.py -youtube http://www.youtube.com/watch?v=<video id>`
 
 ### image stats from url
-python scraper.py -images *\<url\>*
+`python scraper.py -images <url>`
 
 ## Demo output files
 in [output/](output/) folder
