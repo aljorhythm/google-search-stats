@@ -25,5 +25,9 @@ Crawls into each google search result and obtain
 ### image stats from url
 `python scraper.py -images <url>`
 
-## Demo output files
+## Demo
+
+![terminal](docs/demo.png)
+
+### Demo output files
 in [output/](output/) folder
